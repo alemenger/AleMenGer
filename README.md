@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-# Ale Mendoza Gertie
+# I'm Ale Mendoza Gertie
+This is my personal space on Github. Feel free to watch it!
 
-<h2 align="center">About me</h2>
+
 
 
 <!--
