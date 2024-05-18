@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-# I'm Ale Mendoza Gertie :shipit:
+# I'm Alejandro Mendoza Gertie :shipit:
 <h1 align="center">
   <img align="center" src=https://readme-typing-svg.herokuapp.com?color=00F768&center=true&vCenter=true&width=420&height=95&lines=You+can+call+me+%22Ale%22 :shipit:>
 </h1>
