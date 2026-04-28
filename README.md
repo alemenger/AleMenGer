@@ -1,5 +1,5 @@
 ## Hi there! 
-# My name is Alejandro Mendoza
+# My name is Alejandro Mendoza Gertie
 Backend Developer | Fintech Focus
 Building backend systems inspired by real banking operations.
 
