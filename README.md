@@ -5,8 +5,45 @@
   <img align="center" src=https://readme-typing-svg.herokuapp.com?color=00F768&center=true&vCenter=true&width=420&height=95&lines=You+can+call+me+%22Ale%22 :shipit:>
 </h1>
 
-This is my personal space on Github. Feel free to watch it!
+## 🚀 About Me
 
+I’m transitioning from a banking background into backend development, focusing on fintech systems.
+
+I previously worked handling real financial transactions, and now I’m building systems that simulate those operations from the backend side.
+
+## 💻 What I'm working on
+
+- Building a **Banking API** with Node.js, TypeScript, and PostgreSQL
+- Designing transaction flows (deposits, withdrawals, transfers)
+- Ensuring financial accuracy using Decimal instead of Float
+
+## 🧠 What I focus on
+
+- Backend architecture (controllers / services)
+- Data integrity and validation
+- Error handling in financial systems
+- Real-world inspired projects
+
+## 📌 Featured Projects
+
+### 🏦 Banking API
+Backend system simulating real banking operations.
+
+👉 https://github.com/alemenger/banking-api
+
+### 📝 Notes App
+Full-stack app with NestJS + React.
+
+👉 https://github.com/alemenger/notes-app
+
+### 📊 Fintech Risk Dashboard
+Frontend project simulating transaction monitoring.
+
+👉 https://github.com/alemenger/fintech-risk-dashboard
+
+## 📫 Let's connect
+
+- LinkedIn: https://www.linkedin.com/in/alejandromendozagertie/
 <div align="center">
   <a href="https://github.com/alemenger">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alemenger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
