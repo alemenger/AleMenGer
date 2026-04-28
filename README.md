@@ -1,51 +1,51 @@
-## Hi there 👋 
+## Hi there 
 
 # Alejandro Mendoza
 
 Backend Developer | Fintech Focus
 Building backend systems inspired by real banking operations.
 
-## 🚀 About Me
+##  About Me
 
 I’m transitioning from a banking background into backend development, focusing on fintech systems.
 
 I previously worked handling real financial transactions, and now I’m building systems that simulate those operations from the backend side.
 
-## 💻 What I'm working on
+##  What I'm working on
 
 - Building a **Banking API** with Node.js, TypeScript, and PostgreSQL
 - Designing transaction flows (deposits, withdrawals, transfers)
 - Ensuring financial accuracy using Decimal instead of Float
 
-## 🧠 What I focus on
+##  What I focus on
 
 - Backend architecture (controllers / services)
 - Data integrity and validation
 - Error handling in financial systems
 - Real-world inspired projects
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🏦 Banking API
+###  Banking API
 Backend API handling deposits, withdrawals and transfers with focus on data integrity and financial accuracy.
 
 👉 https://github.com/alemenger/banking-api
 
-### 📝 Notes App
+###  Notes App
 Full-stack app with NestJS + React.
 
 👉 https://github.com/alemenger/notes-app
 
-### 📊 Fintech Risk Dashboard
+###  Fintech Risk Dashboard
 Frontend project simulating transaction monitoring.
 
 👉 https://github.com/alemenger/fintech-risk-dashboard
 
-## 📫 Let's connect
+##  Let's connect
 
 - LinkedIn: https://www.linkedin.com/in/alejandromendozagertie/
 
-- ## 🛠️ Tech Stack
+- ##  Tech Stack
 
 - Node.js
 - TypeScript
