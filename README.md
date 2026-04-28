@@ -1,7 +1,5 @@
-## Hi there 
-
-# Alejandro Mendoza
-
+## Hi there! 
+# My name is Alejandro Mendoza
 Backend Developer | Fintech Focus
 Building backend systems inspired by real banking operations.
 
